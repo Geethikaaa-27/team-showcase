@@ -4,24 +4,17 @@ Welcome to the **Super Strikers** official one-page fan website! This project is
 
 ## 🌟 Features
 
-### 🧢 Team Overview
-- Displays the **team name**, **logo**, and **slogan** in a bold and centered header.
-- Clean and modern layout with responsive design.
+- Responsive layout
+- Animated player cards
+- Click-to-view modal with player stats
+- Clean, interactive UI
 
-### 🧑‍🤝‍🧑 Player Cards Grid
-- Shows a grid of **player cards** featuring:
-  - Player image
-  - Name
-  - Role (e.g., Batsman, Bowler, All-Rounder)
-- Hover effects to enhance interactivity and user engagement.
-
-### 🔍 Player Details Modal
-- Clicking a player card opens a **modal popup** showing detailed stats:
-  - Strike Rate
-  - Matches Played
-  - Jersey Number
-  - Best Performance
-- Smooth opening and closing transitions for better UX.
+## How to Use
+Click on any player card to view detailed stats including:
+- Strike Rate
+- Matches Played
+- Jersey Number
+- Best Performance
 
 ---
 
@@ -39,6 +32,9 @@ team-website/
 
 ---
 
+## Live Demo
+[Click here to view the site](https://geethikaaa-27.github.io/team-showcase/)
+
 ## 🛠️ Technologies Used
 
 - **HTML5**: For semantic and accessible page structure.
@@ -46,3 +42,6 @@ team-website/
 - **JavaScript (Vanilla)**: To handle player data, modal logic, and DOM manipulation.
 - **Git & GitHub**: For version control and collaboration.
 - **Deployed via GitHub Pages** *(or Vercel/Netlify — adjust based on your deployment)*
+
+## Developed by
+Geethika Kotla
